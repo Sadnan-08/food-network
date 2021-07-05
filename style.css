@@ -52,5 +52,8 @@ section{
     background-image: linear-gradient(darkorange,tomato);
     border-radius: 30px;
     display: inline-block;
-    margin-top: 150px;
+    margin-top: 90px;
+}
+.second-img{
+    height: 95;
 }
