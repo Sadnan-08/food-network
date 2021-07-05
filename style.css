@@ -55,5 +55,29 @@ section{
     margin-top: 90px;
 }
 .second-img{
-    height: 95;
+    height: auto;
+}
+.my-recipes{
+    text-align: center;
+}
+.one-third-width{
+    width: 33%;
+    padding-left: 1.5%;
+    box-shadow: 8px 8px 35px gray;
+    border-radius: 30px;
+    margin-left: 5%;
+    margin-right: 3%;
+    padding-right: 1%;
+    padding-top: 2%;
+}
+.third-img{
+    height: 200px;
+    width: 300px;
+}
+#round-image{
+    border-radius: 15px;
+}
+.recipe-title{
+    font-size: 30px;
+    color: black;
 }
