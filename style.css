@@ -98,3 +98,17 @@ section{
     margin-left: 5%;
     margin-right: 3%;
 }
+footer{
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.food-network{
+    font-size: 25px;
+}
+.white-text{
+    color: silver;
+    font-weight: 200;
+    font-size: 15px;
+}
