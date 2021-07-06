@@ -140,32 +140,3 @@ footer{
     font-weight: 200;
     font-size: 15px;
 }
-.social-menu ul{
-    display: flex;
-    margin-left: 35%;
-    margin-top: 3%;
-}
-.social-menu ul li{
-    list-style: none;
-    margin: 0 15px;
-}
-i{
-    font-size: 30px;
-    color:black;
-}
-i:hover{
-    
-}
-.social-menu ul li a{
-    position: relative;
-    display: block;
-    height: 40px;
-    width: 50px;
-    padding-top: 10px;
-    border-radius: 50%;
-    background-color: white;
-    transition: .3s;
-}
-.social-menu ul li a:hover{
-    transform: translate(0, -10px);
-}
